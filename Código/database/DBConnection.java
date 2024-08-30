@@ -8,9 +8,9 @@ public class DBConnection {
 
     private static Connection connection = null;
 
-    private static final String URL = "jdbc:mysql://localhost:3306/sistemaupa";
+    private static final String URL = "jdbc:mysql://localhost:3306/nome banco";
     private static final String USER = "root";
-    private static final String PASSWORD = "16Clau1963*";
+    private static final String PASSWORD = "Senha banco";
 
     private DBConnection() {
     }
